@@ -1,12 +1,12 @@
 body{
     margin: 0px;
     padding: 0px;
-    background-color: grey;
+    background-color: white;
 }
 
 .intro{
     text-align: center;
-    background-color: white;
+    background-color: gray;
     padding: 30px;
     margin: 0;
     font-family: "Work Sans";
