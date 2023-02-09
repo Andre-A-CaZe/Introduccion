@@ -1,0 +1,46 @@
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: grey;
+}
+
+.intro{
+    text-align: center;
+    background-color: white;
+    padding: 30px;
+    margin: 0;
+    font-family: "Work Sans";
+    font-weight: 900;
+    font-size: 50px;
+}
+
+.objetivo{
+    padding-left: 30px;
+    padding-top: 20px;
+    margin: 0px;
+    font-family: "Work Sans";
+    font-weight: 600;
+    font-size: 30px;
+}
+
+
+.par1{
+    padding-left: 50px;
+    padding-top: 0px;
+    margin: 0px;
+    font-family: "Work Sans";
+    font-weight: 400;
+    font-size: 25px;
+}
+
+
+.par2{
+    padding-left: 15px;
+    padding-top: 20px;
+    margin: 0px;
+    font-family: "Work Sans";
+    font-weight: 200;
+    font-size: 20px;
+}
+
+
